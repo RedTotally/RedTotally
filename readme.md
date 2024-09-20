@@ -32,7 +32,7 @@
 
 <h2>Clients</h2>
 <ul>
-  <li><a href="https://statuesquare.com/">Statue Square</a></li>
+  <li><a href="https://statuesquare.com/">Statue Square (Demostration Site)</a></li>
   <li><a>System Registrations (Internal Use File Storage System & CRM System)</a></li>
   <li><a href="https://konglamltd.com/">Kong Lam Enterprises Company Limited</a></li>
   <li><a href="https://flamingo-8jm.pages.dev/">Flamingo</a></li>
