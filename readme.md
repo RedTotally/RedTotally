@@ -20,7 +20,7 @@
 <h2>Official Projects</h2>
 <ul>
   <li><a href="https://godotwebs.com">GoDotWebs</a></li>
-  <li>DotWebsHosting</li>
+  <li><a href="https://dotwebshosting.com">DotWebsHosting</a></li>
   <li>DotWebsBuilder</li>
   <li>PutEverythingInsideABox</li>
 </ul>
