@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<p>I built cool things.</p>
+<p>I built/am building cool things.</p>
 
 <p>cofee plz > <a href="https://buymeacoffee.com/thered">buying me a coffee</a></p>
 
