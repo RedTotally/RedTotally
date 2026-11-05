@@ -15,6 +15,6 @@
 
 <p>I built cool things.</p>
 
-<p>Give me money plz I am broke as hell > <a href="https://buymeacoffee.com/thered">buying me a coffee</a></p>
+<p>cofee plz > <a href="https://buymeacoffee.com/thered">buying me a coffee</a></p>
 
 
