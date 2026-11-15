@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<p>I built/am building cool things. Hybird business/swe type shi.</p>
+<p>I built/am building cool things. Hybrid business/swe type shi.</p>
 
 <p>cofee plz > <a href="https://buymeacoffee.com/thered">buying me a coffee</a></p>
 
